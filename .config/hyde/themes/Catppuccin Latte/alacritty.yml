@@ -1,0 +1,38 @@
+colors:
+  # Default colors
+  primary:
+    background: '0xEFF1F5'
+    foreground: '0x4C4F69'
+  
+  # Normal colors
+  normal:
+    black:   '0x4C4F69'
+    red:     '0xD20F39'
+    green:   '0x40A02B'
+    yellow:  '0xDF8E1D'
+    blue:    '0x1E66F5'
+    magenta: '0xEA76CB'
+    cyan:    '0x179299'
+    white:   '0xACB0BE'
+  
+  # Bright colors
+  bright:
+    black:   '0x6C6F85'
+    red:     '0xD20F39'
+    green:   '0x40A02B'
+    yellow:  '0xDF8E1D'
+    blue:    '0x1E66F5'
+    magenta: '0xEA76CB'
+    cyan:    '0x179299'
+    white:   '0xACB0BE'
+  
+  # Cursor colors
+  cursor:
+    text:   '0xEFF1F5'
+    cursor: '0xDC8A78'
+  
+  # Selection colors
+  selection:
+    text:   '0xEFF1F5'
+    background: '0xDC8A78'
+
