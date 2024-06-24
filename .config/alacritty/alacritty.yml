@@ -1,5 +1,61 @@
+# Window Configuration
+window:
+  padding:
+    x: 25
+    y: 25
+
+# Font Configuration
 font:
   normal:
-    family: JetBrains Mono
+    family: 'CaskaydiaCove Nerd Font Mono'
     style: Regular
+
+  bold:
+    family: 'CaskaydiaCove Nerd Font Mono'
+    style: Bold
+
+  italic:
+    family: 'CaskaydiaCove Nerd Font Mono'
+    style: Italic
+
+  size: 9.0
+
+# Color Configuration
+colors:
+  # Default colors
+  primary:
+    background: '0x1E1E2E'
+    foreground: '0xCDD6F4'
+  
+  # Normal colors
+  normal:
+    black:   '0x43465A'
+    red:     '0xF38BA8'
+    green:   '0xA6E3A1'
+    yellow:  '0xF9E2AF'
+    blue:    '0x87B0F9'
+    magenta: '0xF5C2E7'
+    cyan:    '0x94E2D5'
+    white:   '0xCDD6F4'
+  
+  # Bright colors
+  bright:
+    black:   '0x43465A'
+    red:     '0xF38BA8'
+    green:   '0xA6E3A1'
+    yellow:  '0xF9E2AF'
+    blue:    '0x87B0F9'
+    magenta: '0xF5C2E7'
+    cyan:    '0x94E2D5'
+    white:   '0xA1A8C9'
+  
+  # Cursor colors
+  cursor:
+    text:   '0x1E1E2E'
+    cursor: '0xF5E0DC'
+  
+  # Selection colors
+  selection:
+    text:   '0x1E1E2E'
+    background: '0xF5E0DC'
 
