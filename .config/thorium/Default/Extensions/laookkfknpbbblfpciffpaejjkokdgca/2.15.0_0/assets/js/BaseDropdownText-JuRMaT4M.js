@@ -1,0 +1,1 @@
+import{n as e}from"./promisifiedChrome-CheD9WtZ.js";const t=e({name:"BaseDropdownText",props:{isTitle:{type:Boolean,default:!1}}},(function(){var e=this;return(0,e._self._c)("p",{class:["base-dropdown-text",{title:e.isTitle}]},[e._t("default")],2)}),[],!1,null,"f8c33574").exports;export{t as B};

@@ -1,0 +1,20 @@
+[Added Associations]
+application/pdf=thorium-browser-2.desktop;
+x-scheme-handler/mailto=userapp-Thunderbird-2J1MQ2.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-2J1MQ2.desktop;
+application/x-shellscript=codium-wayland.desktop;
+image/webp=imv.desktop;thorium-browser.desktop;
+
+[Default Applications]
+application/pdf=thorium-browser-2.desktop;
+text/html=thorium-browser.desktop
+x-scheme-handler/about=thorium-browser.desktop
+x-scheme-handler/discord-460807638964371468=discord-460807638964371468.desktop
+x-scheme-handler/discord-712465656758665259=discord-712465656758665259.desktop
+x-scheme-handler/http=thorium-browser.desktop
+x-scheme-handler/https=thorium-browser.desktop
+x-scheme-handler/unknown=thorium-browser.desktop
+application/x-zerosize=imv.desktop
+x-scheme-handler/mailto=userapp-Thunderbird-2J1MQ2.desktop
+message/rfc822=userapp-Thunderbird-2J1MQ2.desktop
+x-scheme-handler/mid=userapp-Thunderbird-2J1MQ2.desktop

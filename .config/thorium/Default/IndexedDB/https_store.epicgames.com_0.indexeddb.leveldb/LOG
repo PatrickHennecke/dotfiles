@@ -1,0 +1,15 @@
+2024/07/09-13:23:05.899 dc2 Reusing MANIFEST /home/modus/.config/thorium/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/09-13:23:05.900 dc2 Recovering log #4
+2024/07/09-13:23:05.901 dc2 Reusing old log /home/modus/.config/thorium/Default/IndexedDB/https_store.epicgames.com_0.indexeddb.leveldb/000004.log 
+2024/07/09-13:23:17.250 dc3 Level-0 table #8: started
+2024/07/09-13:23:17.253 dc3 Level-0 table #8: 301700 bytes OK
+2024/07/09-13:23:17.255 dc3 Delete type=0 #4
+2024/07/09-13:23:17.256 dc3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/09-13:23:17.256 dc3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00S@' @ 1876 : 1
+2024/07/09-13:23:17.256 dc3 Compacting 1@1 + 1@2 files
+2024/07/09-13:23:17.258 dc3 Generated table #9@1: 77 keys, 1240 bytes
+2024/07/09-13:23:17.258 dc3 Compacted 1@1 + 1@2 files => 1240 bytes
+2024/07/09-13:23:17.260 dc3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/09-13:23:17.260 dc3 Delete type=2 #5
+2024/07/09-13:23:17.260 dc3 Delete type=2 #8
+2024/07/09-13:23:17.260 dc3 Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00S@' @ 1876 : 1 .. (end); will stop at (end)

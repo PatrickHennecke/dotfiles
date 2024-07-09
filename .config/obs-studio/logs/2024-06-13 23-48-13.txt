@@ -1,0 +1,94 @@
+23:48:13.472: Platform: Wayland
+23:48:13.472: CPU Name: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz
+23:48:13.472: CPU Speed: 4000.980MHz
+23:48:13.472: Physical Cores: 6, Logical Cores: 12
+23:48:13.472: Physical Memory: 15889MB Total, 4508MB Free
+23:48:13.472: Kernel Version: Linux 6.9.4-arch1-1
+23:48:13.472: Distribution: "Arch Linux" Unknown
+23:48:13.472: Desktop Environment: Hyprland ()
+23:48:13.472: Session Type: wayland
+23:48:13.474: Qt Version: 6.7.1 (runtime), 6.7.0 (compiled)
+23:48:13.474: Portable mode: false
+23:48:13.497: OBS 30.1.2-1 (linux)
+23:48:13.497: ---------------------------------
+23:48:13.497: ---------------------------------
+23:48:13.497: audio settings reset:
+23:48:13.497: 	samples per sec: 48000
+23:48:13.497: 	speakers:        2
+23:48:13.497: 	max buffering:   960 milliseconds
+23:48:13.497: 	buffering type:  dynamically increasing
+23:48:13.499: ---------------------------------
+23:48:13.499: Initializing OpenGL...
+23:48:13.499: Using EGL/Wayland
+23:48:13.510: Initialized EGL 1.5
+23:48:13.531: Loading up OpenGL on adapter NVIDIA Corporation NVIDIA GeForce RTX 2080 Ti/PCIe/SSE2
+23:48:13.531: OpenGL loaded successfully, version 3.3.0 NVIDIA 550.90.07, shading language 3.30 NVIDIA via Cg compiler
+23:48:13.554: ---------------------------------
+23:48:13.554: video settings reset:
+23:48:13.554: 	base resolution:   2560x1440
+23:48:13.554: 	output resolution: 1920x1080
+23:48:13.554: 	downscale filter:  Bicubic
+23:48:13.554: 	fps:               60/1
+23:48:13.554: 	format:            NV12
+23:48:13.554: 	YUV mode:          Rec. 709/Partial
+23:48:13.555: NV12 texture support enabled
+23:48:13.555: P010 texture support not available
+23:48:13.555: Audio monitoring device:
+23:48:13.555: 	name: Default
+23:48:13.555: 	id: default
+23:48:13.556: ---------------------------------
+23:48:13.561: Failed to load 'en-US' text for module: 'decklink-captions.so'
+23:48:13.567: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+23:48:13.571: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+23:48:13.572: Failed to initialize module 'decklink.so'
+23:48:13.696: [pipewire] No captures available
+23:48:13.711: v4l2loopback not installed, virtual camera disabled
+23:48:13.749: NVENC supported
+23:48:13.749: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+23:48:13.749: FFmpeg VAAPI H264 encoding not supported
+23:48:13.749: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+23:48:13.749: FFmpeg VAAPI AV1 encoding not supported
+23:48:13.749: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+23:48:13.749: FFmpeg VAAPI HEVC encoding not supported
+23:48:13.817: ---------------------------------
+23:48:13.817:   Loaded Modules:
+23:48:13.817:     text-freetype2.so
+23:48:13.817:     rtmp-services.so
+23:48:13.817:     obs-x264.so
+23:48:13.817:     obs-webrtc.so
+23:48:13.817:     obs-vst.so
+23:48:13.817:     obs-transitions.so
+23:48:13.817:     obs-qsv11.so
+23:48:13.817:     obs-outputs.so
+23:48:13.817:     obs-libfdk.so
+23:48:13.817:     obs-filters.so
+23:48:13.817:     obs-ffmpeg.so
+23:48:13.817:     linux-v4l2.so
+23:48:13.817:     linux-pulseaudio.so
+23:48:13.817:     linux-pipewire.so
+23:48:13.817:     linux-jack.so
+23:48:13.817:     linux-capture.so
+23:48:13.817:     linux-alsa.so
+23:48:13.817:     image-source.so
+23:48:13.817:     frontend-tools.so
+23:48:13.817:     decklink-output-ui.so
+23:48:13.817:     decklink-captions.so
+23:48:13.817: ---------------------------------
+23:48:13.817: ==== Startup complete ===============================================
+23:48:13.841: All scene data cleared
+23:48:13.841: ------------------------------------------------
+23:48:13.844: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.7) 15.0.0'
+23:48:13.844: pulse-input: Audio format: s32le, 48000 Hz, 4 channels
+23:48:13.844: pulse-input: Started recording from 'alsa_output.usb-Audient_EVO4-00.analog-surround-40.monitor' (default)
+23:48:13.844: [Loaded global audio device]: 'Desktop Audio'
+23:48:13.844: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.7) 15.0.0'
+23:48:13.845: pulse-input: Audio format: s32le, 48000 Hz, 4 channels
+23:48:13.845: pulse-input: Started recording from 'alsa_input.usb-Audient_EVO4-00.analog-surround-40' (default)
+23:48:13.845: [Loaded global audio device]: 'Mic/Aux'
+23:48:13.845: Switched to scene 'Scene'
+23:48:13.846: ------------------------------------------------
+23:48:13.846: Loaded scenes:
+23:48:13.846: - scene 'Scene':
+23:48:13.846: ------------------------------------------------
+23:48:14.394: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Desktop Audio)
+23:48:14.394: 

@@ -1,0 +1,7 @@
+2024/07/06-13:35:05.062 c87 Reusing MANIFEST /home/modus/.config/thorium/Default/WebStorage/8/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/07/06-13:35:05.062 c87 Recovering log #3
+2024/07/06-13:35:05.063 c87 Reusing old log /home/modus/.config/thorium/Default/WebStorage/8/IndexedDB/indexeddb.leveldb/000003.log 
+2024/07/06-13:35:10.549 c87 Level-0 table #5: started
+2024/07/06-13:35:10.553 c87 Level-0 table #5: 51067 bytes OK
+2024/07/06-13:35:10.556 c87 Delete type=0 #3
+2024/07/06-13:35:10.556 c87 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,1 @@
+import{e as s,u as e}from"./promisifiedChrome-CheD9WtZ.js";import{a}from"./ResizeSensor-CXS_pGRc.js";const i=a({setup:()=>({flashMessageId:null}),methods:{showFlashMessage(a){this.flashMessageId&&s.$emit("flashMessage:dismiss",this.flashMessageId),this.flashMessageId=e.uuidv4(),a.id=this.flashMessageId,s.$emit("flashMessage",a)}}});export{i as f};

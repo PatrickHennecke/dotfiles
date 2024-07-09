@@ -1,0 +1,1 @@
+import{_ as a,a as c}from"./search-DCqlmJx6.js";const e={focus:{name:"Focus",icon:a},search:{name:"Search",feature:"search in center",icon:c}};export{e as c};

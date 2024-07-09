@@ -1,0 +1,1 @@
+var s=(s=>(s.SitesResisted="sitesResisted",s))(s||{});export{s as S};

@@ -1,0 +1,6 @@
+2024/06/12-13:58:35.856 478 Creating DB /home/modus/.config/microsoft-edge/Default/IndexedDB/https_app.glean.com_0.indexeddb.leveldb since it was missing.
+2024/06/12-13:58:35.860 478 Reusing MANIFEST /home/modus/.config/microsoft-edge/Default/IndexedDB/https_app.glean.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/12-13:58:52.566 477 Level-0 table #5: started
+2024/06/12-13:58:52.567 477 Level-0 table #5: 1886 bytes OK
+2024/06/12-13:58:52.569 477 Delete type=0 #3
+2024/06/12-13:58:52.570 477 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,14 @@
+2024/07/08-12:20:05.867 c3f Reusing MANIFEST /home/modus/.config/thorium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/08-12:20:05.867 c3f Recovering log #8
+2024/07/08-12:20:05.887 c3f Reusing old log /home/modus/.config/thorium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000008.log 
+2024/07/08-12:20:11.269 c43 Level-0 table #16: started
+2024/07/08-12:20:11.289 c43 Level-0 table #16: 1304999 bytes OK
+2024/07/08-12:20:11.292 c43 Delete type=0 #8
+2024/07/08-12:20:48.881 c3f Compacting 1@1 + 2@2 files
+2024/07/08-12:20:48.914 c3f Generated table #17@1: 2512 keys, 2127080 bytes
+2024/07/08-12:20:48.938 c3f Generated table #18@1: 9776 keys, 1150626 bytes
+2024/07/08-12:20:48.938 c3f Compacted 1@1 + 2@2 files => 3277706 bytes
+2024/07/08-12:20:48.941 c3f compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/07/08-12:20:48.941 c3f Delete type=2 #12
+2024/07/08-12:20:48.941 c3f Delete type=2 #13
+2024/07/08-12:20:48.941 c3f Delete type=2 #16

@@ -1,0 +1,13 @@
+2024-07-09 16:17:18.359 [info] Getting Manifest... ms-python.python
+2024-07-09 16:17:19.229 [info] Installing extension: ms-python.python vscode-userdata:/home/modus/.vscode-oss/extensions/extensions.json
+2024-07-09 16:17:22.512 [info] Extracted extension to file:///home/modus/.vscode-oss/extensions/ms-python.python-2024.10.0-universal: ms-python.python
+2024-07-09 16:17:22.539 [info] Renamed to /home/modus/.vscode-oss/extensions/ms-python.python-2024.10.0-universal
+2024-07-09 16:17:22.591 [info] Marked extension as uninstalled ms-python.python-2024.8.1-universal
+2024-07-09 16:17:22.601 [info] Extension installed successfully: ms-python.python vscode-userdata:/home/modus/.vscode-oss/extensions/extensions.json
+2024-07-09 16:17:22.624 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/modus/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/modus/.vscode-oss/extensions/extensions.json.vsctmp'
+    at l.create (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:22053)
+    at m (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:22183)
+    at t.toFileSystemProviderError (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:48025)
+    at t.stat (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:38528)
+    at async v.stat (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:19752)
+    at async z.onDidFilesChange (/opt/vscodium-bin/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:144574)

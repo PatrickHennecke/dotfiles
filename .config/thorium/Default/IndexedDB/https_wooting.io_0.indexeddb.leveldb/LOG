@@ -1,0 +1,25 @@
+2024/06/24-21:17:02.007 e241 Reusing MANIFEST /home/modus/.config/thorium/Default/IndexedDB/https_wooting.io_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/24-21:17:02.007 e241 Recovering log #70
+2024/06/24-21:17:02.008 e241 Reusing old log /home/modus/.config/thorium/Default/IndexedDB/https_wooting.io_0.indexeddb.leveldb/000070.log 
+2024/06/24-21:17:02.008 e241 Delete type=2 #69
+2024/06/24-21:17:02.117 e247 Level-0 table #75: started
+2024/06/24-21:17:02.118 e247 Level-0 table #75: 930 bytes OK
+2024/06/24-21:17:02.121 e247 Delete type=0 #70
+2024/06/24-21:17:02.121 e241 Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at '\x00\x17\x00\x00\x05' @ 808 : 1
+2024/06/24-21:17:02.121 e241 Compacting 1@0 + 1@1 files
+2024/06/24-21:17:02.122 e241 Generated table #76@0: 43 keys, 926 bytes
+2024/06/24-21:17:02.122 e241 Compacted 1@0 + 1@1 files => 926 bytes
+2024/06/24-21:17:02.125 e241 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/24-21:17:02.125 e241 Delete type=2 #75
+2024/06/24-21:17:02.125 e241 Manual compaction at level-0 from '\x00\x17\x00\x00\x05' @ 808 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/24-21:17:04.427 e241 Level-0 table #78: started
+2024/06/24-21:17:04.429 e241 Level-0 table #78: 1488 bytes OK
+2024/06/24-21:17:04.431 e241 Delete type=2 #72
+2024/06/24-21:17:04.431 e241 Delete type=0 #74
+2024/06/24-21:17:04.431 e241 Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at '\x00\x18\x00\x00\x05' @ 853 : 1
+2024/06/24-21:17:04.431 e241 Compacting 1@0 + 1@1 files
+2024/06/24-21:17:04.433 e241 Generated table #79@0: 50 keys, 1434 bytes
+2024/06/24-21:17:04.433 e241 Compacted 1@0 + 1@1 files => 1434 bytes
+2024/06/24-21:17:04.435 e241 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/24-21:17:04.435 e241 Delete type=2 #78
+2024/06/24-21:17:04.435 e241 Manual compaction at level-0 from '\x00\x18\x00\x00\x05' @ 853 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)

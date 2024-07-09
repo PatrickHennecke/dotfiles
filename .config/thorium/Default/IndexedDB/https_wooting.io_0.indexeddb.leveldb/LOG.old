@@ -1,0 +1,47 @@
+2024/06/24-18:46:21.975 9f87 Reusing MANIFEST /home/modus/.config/thorium/Default/IndexedDB/https_wooting.io_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/24-18:46:21.975 9f87 Recovering log #57
+2024/06/24-18:46:21.975 9f87 Reusing old log /home/modus/.config/thorium/Default/IndexedDB/https_wooting.io_0.indexeddb.leveldb/000057.log 
+2024/06/24-18:46:21.975 9f87 Delete type=2 #56
+2024/06/24-18:46:22.097 9f91 Level-0 table #62: started
+2024/06/24-18:46:22.099 9f91 Level-0 table #62: 932 bytes OK
+2024/06/24-18:46:22.101 9f91 Delete type=0 #57
+2024/06/24-18:46:22.101 9f8b Manual compaction at level-0 from '\x00\x13\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at '\x00\x13\x00\x00\x05' @ 676 : 1
+2024/06/24-18:46:22.101 9f8b Compacting 1@0 + 1@1 files
+2024/06/24-18:46:22.102 9f8b Generated table #63@0: 22 keys, 734 bytes
+2024/06/24-18:46:22.103 9f8b Compacted 1@0 + 1@1 files => 734 bytes
+2024/06/24-18:46:22.105 9f8b compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/24-18:46:22.105 9f8b Delete type=2 #62
+2024/06/24-18:46:22.105 9f8b Manual compaction at level-0 from '\x00\x13\x00\x00\x05' @ 676 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/24-18:46:26.669 9f87 Level-0 table #65: started
+2024/06/24-18:46:26.670 9f87 Level-0 table #65: 926 bytes OK
+2024/06/24-18:46:26.673 9f87 Delete type=2 #59
+2024/06/24-18:46:26.673 9f87 Delete type=0 #61
+2024/06/24-18:46:26.673 9f87 Manual compaction at level-0 from '\x00\x14\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at '\x00\x14\x00\x00\x05' @ 709 : 1
+2024/06/24-18:46:26.673 9f87 Compacting 1@0 + 1@1 files
+2024/06/24-18:46:26.674 9f87 Generated table #66@0: 26 keys, 775 bytes
+2024/06/24-18:46:26.674 9f87 Compacted 1@0 + 1@1 files => 775 bytes
+2024/06/24-18:46:26.677 9f87 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/24-18:46:26.677 9f87 Delete type=2 #65
+2024/06/24-18:46:26.677 9f87 Manual compaction at level-0 from '\x00\x14\x00\x00\x05' @ 709 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/24-18:47:20.991 9f88 Level-0 table #68: started
+2024/06/24-18:47:20.999 9f88 Level-0 table #68: 929 bytes OK
+2024/06/24-18:47:21.002 9f88 Delete type=2 #63
+2024/06/24-18:47:21.002 9f88 Delete type=0 #64
+2024/06/24-18:47:21.002 9f88 Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at '\x00\x15\x00\x00\x05' @ 742 : 1
+2024/06/24-18:47:21.002 9f88 Compacting 1@0 + 1@1 files
+2024/06/24-18:47:21.003 9f88 Generated table #69@0: 34 keys, 843 bytes
+2024/06/24-18:47:21.003 9f88 Compacted 1@0 + 1@1 files => 843 bytes
+2024/06/24-18:47:21.006 9f88 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/24-18:47:21.006 9f88 Delete type=2 #68
+2024/06/24-18:47:21.006 9f88 Manual compaction at level-0 from '\x00\x15\x00\x00\x05' @ 742 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/24-18:47:22.168 9f8b Level-0 table #71: started
+2024/06/24-18:47:22.169 9f8b Level-0 table #71: 934 bytes OK
+2024/06/24-18:47:22.172 9f8b Delete type=2 #66
+2024/06/24-18:47:22.172 9f8b Delete type=0 #67
+2024/06/24-18:47:22.172 9f87 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at '\x00\x16\x00\x00\x05' @ 775 : 1
+2024/06/24-18:47:22.172 9f87 Compacting 1@0 + 1@1 files
+2024/06/24-18:47:22.173 9f87 Generated table #72@0: 42 keys, 915 bytes
+2024/06/24-18:47:22.173 9f87 Compacted 1@0 + 1@1 files => 915 bytes
+2024/06/24-18:47:22.176 9f87 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/24-18:47:22.176 9f87 Delete type=2 #71
+2024/06/24-18:47:22.176 9f87 Manual compaction at level-0 from '\x00\x16\x00\x00\x05' @ 775 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)

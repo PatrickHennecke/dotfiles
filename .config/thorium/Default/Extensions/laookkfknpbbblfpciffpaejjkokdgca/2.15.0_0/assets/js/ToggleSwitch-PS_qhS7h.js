@@ -1,0 +1,1 @@
+import{n as s}from"./promisifiedChrome-CheD9WtZ.js";const e=s({name:"ToggleSwitch",props:{value:{type:Boolean,default:!1}}},(function(){var s=this;return(0,s._self._c)("div",s._g({staticClass:"toggle-switch",class:{on:s.value}},s.$listeners))}),[],!1,null,"60f6c63d").exports;export{e as T};

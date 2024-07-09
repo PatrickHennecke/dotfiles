@@ -1,0 +1,12 @@
+2024/07/08-17:28:36.880 36e0 Reusing MANIFEST /home/modus/.config/thorium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/08-17:28:36.880 36e0 Recovering log #141
+2024/07/08-17:28:36.884 36e0 Reusing old log /home/modus/.config/thorium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000141.log 
+2024/07/08-17:28:42.218 36e1 Level-0 table #147: started
+2024/07/08-17:28:42.234 36e1 Level-0 table #147: 2843314 bytes OK
+2024/07/08-17:28:42.237 36e1 Delete type=0 #141
+2024/07/08-17:28:53.092 36e1 Compacting 1@1 + 1@2 files
+2024/07/08-17:28:53.109 36e1 Generated table #148@1: 190 keys, 444988 bytes
+2024/07/08-17:28:53.109 36e1 Compacted 1@1 + 1@2 files => 444988 bytes
+2024/07/08-17:28:53.114 36e1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/08-17:28:53.114 36e1 Delete type=2 #144
+2024/07/08-17:28:53.114 36e1 Delete type=2 #147

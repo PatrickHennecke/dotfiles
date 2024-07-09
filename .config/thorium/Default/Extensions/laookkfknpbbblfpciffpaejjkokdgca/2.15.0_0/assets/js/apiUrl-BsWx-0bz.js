@@ -1,0 +1,1 @@
+import{e as a}from"./environmentVariables-Cy83xda0.js";const e=()=>a.apiUrl;export{e as default};

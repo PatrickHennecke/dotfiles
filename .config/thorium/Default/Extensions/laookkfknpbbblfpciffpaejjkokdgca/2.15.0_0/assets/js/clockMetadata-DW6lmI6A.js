@@ -1,0 +1,1 @@
+import{_ as o,a as c}from"./pomodoro-DvfTwCi0.js";const a={clock:{name:"Clock",feature:"default clock",icon:o},pomodoro:{name:"Pomodoro",icon:c,upsell:"UPSELL_POMODORO"}};export{a as c};

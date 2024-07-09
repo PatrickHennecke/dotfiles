@@ -1,0 +1,5 @@
+2024/07/09-16:37:55.379 4 Reusing MANIFEST /home/modus/.config/thorium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/07/09-16:37:55.380 4 Recovering log #1162
+2024/07/09-16:37:55.380 4 Level-0 table #1167: started
+2024/07/09-16:37:55.382 4 Level-0 table #1167: 22007 bytes OK
+2024/07/09-16:37:55.386 4 Delete type=0 #1162

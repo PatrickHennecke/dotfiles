@@ -1,0 +1,3 @@
+2024-07-02 23:49:44.968 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/modus/Downloads/docker-compose.yml","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-07-02 23:49:45.313 [info] Started local extension host with pid 23319.
+2024-07-02 23:49:48.080 [info] [perf] Render performance baseline is 29ms

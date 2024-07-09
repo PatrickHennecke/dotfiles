@@ -1,0 +1,13 @@
+2024/06/27-11:39:15.326 15f8 Reusing MANIFEST /home/modus/.config/thorium/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/27-11:39:15.326 15f8 Recovering log #90
+2024/06/27-11:39:15.326 15f8 Reusing old log /home/modus/.config/thorium/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/000090.log 
+2024/06/27-11:39:15.342 15f8 Level-0 table #95: started
+2024/06/27-11:39:15.344 15f8 Level-0 table #95: 1229 bytes OK
+2024/06/27-11:39:15.347 15f8 Delete type=0 #90
+2024/06/27-11:39:15.348 15f8 Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1d\x00\x00\x05' @ 707 : 1
+2024/06/27-11:39:15.348 15f8 Compacting 1@0 + 1@1 files
+2024/06/27-11:39:15.349 15f8 Generated table #96@0: 66 keys, 6764 bytes
+2024/06/27-11:39:15.349 15f8 Compacted 1@0 + 1@1 files => 6764 bytes
+2024/06/27-11:39:15.352 15f8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/27-11:39:15.352 15f8 Delete type=2 #95
+2024/06/27-11:39:15.352 15f8 Manual compaction at level-0 from '\x00\x1d\x00\x00\x05' @ 707 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)

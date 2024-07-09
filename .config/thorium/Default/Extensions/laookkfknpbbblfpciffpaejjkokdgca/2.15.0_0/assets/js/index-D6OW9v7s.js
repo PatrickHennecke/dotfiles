@@ -1,0 +1,2 @@
+const __vite__fileDeps=["assets/js/MotionPlugin-4R7vqiOp.js","assets/js/preload-helper-D7CfCCEq.js"],__vite__mapDeps=i=>i.map(i=>__vite__fileDeps[i]);
+import{_ as o}from"./preload-helper-D7CfCCEq.js";async function i(i,n=!0){const{MotionPlugin:t}=await o((()=>import("./MotionPlugin-4R7vqiOp.js")),__vite__mapDeps([0,1]));await i.addPlugin(new t(i),n)}export{i as loadMotionPlugin};

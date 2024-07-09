@@ -1,0 +1,122 @@
+<svg width="56" height="94" viewBox="0 0 56 94" fill="none" xmlns="http://www.w3.org/2000/svg">   
+<defs>   
+    <style>    
+        .diamond {   
+            transform-origin: 28px 31px;            
+            animation: scale-diamond 2s ease-in-out;               
+        }  
+        .s1 {
+            animation: fill-opacity 2s backwards;              
+        }   
+        .s2 {
+            animation: fill-opacity 2s backwards 0.2s;              
+        } 
+        .s3 {
+            animation: fill-opacity 2s backwards 0.4s;             
+        } 
+        .s4 {
+            animation: fill-opacity 2s backwards 0.6s;                        
+        } 
+        .s5 {
+            animation: fill-opacity 2s backwards 0.8s;             
+        } 
+        .s6 {
+            animation: fill-opacity 2s backwards 1s;              
+        } 
+        .s7 {
+            animation: fill-opacity 2s backwards 1.2s;             
+        } 
+        .s8 {
+            animation: fill-opacity 2s backwards 1.4s;             
+        } 
+          
+        .star_l {         
+            transform-origin: 22px 52px;                  
+            animation: scale-star 6s ease-in-out 0.5s infinite;                        
+        }     
+        .star_m {        
+            transform-origin: 47px 25px;               
+            animation: scale-star 6s ease-in-out 1s infinite;    
+        } 
+        .star_s {      
+            transform-origin: 33px 12px;                
+            animation: scale-star 6s ease-in-out infinite;                                      
+        }   
+        @keyframes fill-opacity {                                     
+            0%, 20% {  
+               fill-opacity: 0%;                       
+            }            
+            30% {      
+               fill-opacity: 90%;            
+            }  
+            40%, 100% {        
+               fill-opacity: 0%;        
+            }      
+        }    
+        @keyframes scale-diamond {                  
+            0% {     
+                transform: scale(0);               
+            }            
+            10% {      
+                transform: scale(1.05);    
+            }   
+            15% {           
+                transform: scale(1);    
+            }   
+        }             
+        @keyframes scale-star {                                          
+            0%, 10% {    
+                transform: scale(0);
+            }
+            13% {     
+                transform: scale(1.7);  
+            }   
+            16%, 90% {     
+                transform: scale(1);    
+            }      
+            100% {    
+                transform: scale(0);
+            }     
+        }    
+        </style>    
+</defs> 
+    
+<path class="star_l" 
+    d="M21.5 46L22.6413 49.0844C22.8598 49.6748 23.3252 50.1402 23.9156 50.3587L27 51.5L23.9156 52.6413C23.3252 52.8598 22.8598 53.3252 22.6413 53.9156L21.5 57L20.3587 53.9156C20.1402 53.3252 19.6748 52.8598 19.0844 52.6413L16 51.5L19.0844 50.3587C19.6748 50.1402 20.1402 49.6748 20.3587 49.0844L21.5 46Z" fill="#B2C8EB"
+/>
+<path class="star_m" 
+    d="M46.5 20L47.3131 22.1974C47.5685 22.8875 48.1125 23.4315 48.8026 23.6869L51 24.5L48.8026 25.3131C48.1125 25.5685 47.5685 26.1125 47.3131 26.8026L46.5 29L45.6869 26.8026C45.4315 26.1125 44.8875 25.5685 44.1974 25.3131L42 24.5L44.1974 23.6869C44.8875 23.4315 45.4315 22.8875 45.6869 22.1974L46.5 20Z" fill="#B2C8EB"
+/> 
+<path class="star_s" 
+    d="M33.3416 9.9232L33 9L32.6584 9.92319C32.3609 10.7271 31.7271 11.3609 30.9232 11.6584L30 12L30.9232 12.3416C31.7271 12.6391 32.3609 13.2729 32.6584 14.0768L33 15L33.3416 14.0768C33.6391 13.2729 34.2729 12.6391 35.0768 12.3416L36 12L35.0768 11.6584C34.2729 11.3609 33.6391 10.7271 33.3416 9.9232Z" fill="#B2C8EB"
+/>
+
+<path class="diamond"     
+fill-rule="evenodd" clip-rule="evenodd" d="M38 30.5C34.6666 34.6668 31.2992 38.876 28 43C24.6721 38.8402 21.3323 34.6654 18 30.5L21.7143 23H34.2857L38 30.5ZM19.7725 29.8501L21.9501 25.4531L23.3761 29.8501H19.7725ZM26.2611 38.7453L20.1849 31.1501H23.7978L26.2611 38.7453ZM32.2022 31.1501L29.7389 38.7453L35.8151 31.1501H32.2022ZM34.0499 25.4531L36.2275 29.8501H32.6239L34.0499 25.4531ZM28.8998 24.3H33.0572L31.4945 29.1186L28.8998 24.3ZM27.1004 24.3L24.5056 29.1188L22.9428 24.3H27.1004ZM25.8106 29.8501L28.0001 25.3711L30.1959 29.8501H25.8106ZM25.1644 31.1501L28 39.8932L30.8356 31.1501H25.1644Z" fill="#5075B2"
+/>
+
+<path class="s1"
+d="M22.4847 23L21.7127 23.0117L18.0078 30.5L18.5244 31.15H25.1695L22.4847 23Z" fill="white" fill-opacity="0" 
+/>
+<path class="s2" 
+d="M18.0078 30.5039L28.0006 43.0021L28.7204 42.0996L24.7459 29.8555L18.332 29.8555L18.0078 30.5039Z" fill="white" fill-opacity="0"
+/>
+<path class="s3"           
+d="M25.1678 31.1562H23.7964L21.3857 23.6804L21.7112 23L28.1953 23L28.6992 23.9414L25.1678 31.1562Z" fill="white" fill-opacity="0"
+/>  
+<path class="s4"
+d="M31.879 29.85L24.0674 29.8514L23.6562 30.72L27.4063 42.2626L28.0003 43L28.5853 42.2626L32.3465 30.717L31.879 29.85Z" fill="white" fill-opacity="0"
+/>
+<path class="s5"
+d="M32.2069 31.15H23.7965L23.6641 30.7371L27.8073 23L28.1967 23L32.3457 30.7218L32.2069 31.15Z" fill="white" fill-opacity="0"
+/>
+<path class="s6"
+d="M30.8376 31.1562H32.209L34.6196 23.6804L34.2942 23L27.8101 23L27.3062 23.9414L30.8376 31.1562Z" fill="white" fill-opacity="0"
+/>
+<path class="s7" 
+d="M38 30.5039L28.0072 43.0021L27.2875 42.0996L31.2619 29.8555L37.6758 29.8555L38 30.5039Z" fill="white" fill-opacity="0" 
+/>
+<path class="s8"
+d="M33.5231 23L34.2951 23.0117L38 30.5L37.4834 31.15H30.8383L33.5231 23Z" fill="white" fill-opacity="0"
+/>
+</svg>

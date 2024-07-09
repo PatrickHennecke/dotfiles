@@ -1,0 +1,12 @@
+2024/07/08-14:28:35.804 1c64 Reusing MANIFEST /home/modus/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/08-14:28:35.805 1c64 Recovering log #259
+2024/07/08-14:28:35.807 1c64 Reusing old log /home/modus/.config/thorium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000259.log 
+2024/07/08-14:29:57.243 1c65 Level-0 table #264: started
+2024/07/08-14:29:57.264 1c65 Level-0 table #264: 1404401 bytes OK
+2024/07/08-14:29:57.268 1c65 Delete type=0 #259
+2024/07/08-14:30:22.486 1c65 Compacting 1@1 + 1@2 files
+2024/07/08-14:30:22.491 1c65 Generated table #265@1: 584 keys, 96847 bytes
+2024/07/08-14:30:22.491 1c65 Compacted 1@1 + 1@2 files => 96847 bytes
+2024/07/08-14:30:22.493 1c65 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/08-14:30:22.493 1c65 Delete type=2 #261
+2024/07/08-14:30:22.493 1c65 Delete type=2 #264

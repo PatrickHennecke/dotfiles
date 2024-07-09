@@ -1,0 +1,7 @@
+2024/06/19-14:00:42.858 b6e Reusing MANIFEST /home/modus/.config/thorium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/19-14:00:42.858 b6e Recovering log #6
+2024/06/19-14:00:42.858 b6e Reusing old log /home/modus/.config/thorium/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/000006.log 
+2024/06/19-14:00:42.890 b6d Level-0 table #11: started
+2024/06/19-14:00:42.891 b6d Level-0 table #11: 625 bytes OK
+2024/06/19-14:00:42.893 b6d Delete type=0 #6
+2024/06/19-14:00:42.894 b71 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

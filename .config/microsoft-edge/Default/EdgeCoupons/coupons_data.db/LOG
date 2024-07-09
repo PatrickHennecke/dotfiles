@@ -1,0 +1,6 @@
+2024/07/09-18:33:29.117 4fec Reusing MANIFEST /home/modus/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/MANIFEST-000001
+2024/07/09-18:33:29.117 4fec Recovering log #528
+2024/07/09-18:33:29.117 4fec Reusing old log /home/modus/.config/microsoft-edge/Default/EdgeCoupons/coupons_data.db/000528.log 
+2024/07/09-18:33:29.149 4fec Level-0 table #532: started
+2024/07/09-18:33:29.153 4fec Level-0 table #532: 855076 bytes OK
+2024/07/09-18:33:29.157 4fec Delete type=0 #528

@@ -1,0 +1,648 @@
+{
+   "checksum": "5cf2c2b8c82398d28a99576ce3fa10bc",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13362557225484846",
+               "date_last_used": "13362557364314602",
+               "guid": "1710c4f1-5156-420a-b8d2-281d7d708cb3",
+               "id": "16",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "GitHub - semimqmo/sekiro_grub_theme",
+               "type": "url",
+               "url": "https://github.com/semimqmo/sekiro_grub_theme"
+            }, {
+               "date_added": "13362557278680251",
+               "date_last_used": "0",
+               "guid": "42b35169-5052-47f5-ac4c-5b2527419189",
+               "id": "17",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "GitHub - lfelipe1501/Atomic-GRUB2-Theme: Theme for the Grub2 at the purest ATOMIC style",
+               "type": "url",
+               "url": "https://github.com/lfelipe1501/Atomic-GRUB2-Theme"
+            }, {
+               "date_added": "13362557291287450",
+               "date_last_used": "0",
+               "guid": "a89d08d7-f94e-45bc-b2f7-d07eb2a9fcb9",
+               "id": "18",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "GitHub - Patato777/dotfiles",
+               "type": "url",
+               "url": "https://github.com/Patato777/dotfiles"
+            } ],
+            "date_added": "13362557712000833",
+            "date_last_used": "0",
+            "date_modified": "13362867795837217",
+            "guid": "8baa720a-0018-455b-a5c5-4cf36dd1cbe2",
+            "id": "21",
+            "name": "Grub Themes",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13364947753166553",
+               "date_last_used": "0",
+               "guid": "dc91bc87-bec2-42a0-be9c-098d321d4544",
+               "id": "101",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Connections - The New York Times",
+               "type": "url",
+               "url": "https://www.nytimes.com/games/connections"
+            }, {
+               "date_added": "13364947773258581",
+               "date_last_used": "0",
+               "guid": "20dc74ac-25d1-49ba-bbba-d4aca23638fd",
+               "id": "103",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "travle",
+               "type": "url",
+               "url": "https://travle.earth/"
+            }, {
+               "date_added": "13364948367764756",
+               "date_last_used": "0",
+               "guid": "45b0d56f-bff0-4e87-a921-d943a4fa0922",
+               "id": "104",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Wordle - The New York Times",
+               "type": "url",
+               "url": "https://www.nytimes.com/games/wordle/index.html"
+            } ],
+            "date_added": "13364947764263268",
+            "date_last_used": "0",
+            "date_modified": "13364948367764756",
+            "guid": "f43a0e09-9664-47ee-a842-a15193794960",
+            "id": "102",
+            "name": "Games",
+            "type": "folder"
+         } ],
+         "date_added": "13362539390401232",
+         "date_last_used": "0",
+         "date_modified": "13364947764264040",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13362540594436494",
+            "date_last_used": "13363482403220355",
+            "guid": "f0216ab2-55a8-41cc-a7f2-4dc7e04d9b76",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - Duckonaut/split-monitor-workspaces: A small Hyprland plugin to provide awesome-like workspace behavior",
+            "type": "url",
+            "url": "https://github.com/Duckonaut/split-monitor-workspaces"
+         }, {
+            "date_added": "13362553507438831",
+            "date_last_used": "0",
+            "guid": "1c3304ef-48d5-4975-87a0-805f8bbcf512",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Setup WAYBAR, the status bar for HYPRLAND with standard and custom modules for your window manager. - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=rW3JKs1_oVI"
+         }, {
+            "date_added": "13362553511920174",
+            "date_last_used": "13363245542946054",
+            "guid": "74348aca-b0dc-435d-ace7-b377d33fc478",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Stephan Raabe / ML4W Dotfiles for Hyprland · GitLab",
+            "type": "url",
+            "url": "https://gitlab.com/stephan-raabe/dotfiles/-/tree/main?ref_type=heads"
+         }, {
+            "date_added": "13362553830553132",
+            "date_last_used": "0",
+            "guid": "1a0e58e8-802e-498b-83ac-413426574f62",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to Use and Configure Alacritty (The Best Terminal Emulator) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=76GbxnD8wnM"
+         }, {
+            "date_added": "13362553861472199",
+            "date_last_used": "0",
+            "guid": "b1bcbbe8-db46-40ac-9b2e-089f9ab12816",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ArcoLinux : 3446 Hyprland - How to change the theme, icons and cursor - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=FuWAv2l5Oso"
+         }, {
+            "date_added": "13362554095060567",
+            "date_last_used": "0",
+            "guid": "422683ea-003e-4a55-acd7-543eb0344363",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Install GPU Passthrough on Arch Linux. HYPRLAND and Qtile integration with Looking Glass and RDP. - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=uOuzFd8Gd2o"
+         }, {
+            "date_added": "13362554232647280",
+            "date_last_used": "0",
+            "guid": "ba32bdf4-11e9-4c0f-b9ae-d3c3d32c8c04",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to connect to VPN OpenVPN on Arch Linux - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=GB5qZWVnkD4"
+         }, {
+            "date_added": "13362557042015332",
+            "date_last_used": "13362557740932844",
+            "guid": "68cfdc05-0b18-4d6f-9232-04c552363d05",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - Rokin05/darkine-kde: Darkine KDE - Theme for KDE Plasma 5 desktop > Mirror of https://git.rokin.in/Rokin/darkine-kde",
+            "type": "url",
+            "url": "https://github.com/Rokin05/darkine-kde"
+         }, {
+            "date_added": "13362557045278325",
+            "date_last_used": "13362557753458543",
+            "guid": "9757cf3b-b454-47ec-b3fd-1b02efbe384b",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - Keyitdev/sddm-astronaut-theme: Modern looking sddm qt6 theme.",
+            "type": "url",
+            "url": "https://github.com/Keyitdev/sddm-astronaut-theme"
+         }, {
+            "date_added": "13362867607459803",
+            "date_last_used": "13362867808133996",
+            "guid": "a856ebbc-878d-4a37-9dff-586dbccdf22f",
+            "id": "36",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Xbox Controllers on Arch Linux",
+            "type": "url",
+            "url": "https://hoverbear.org/blog/xbox-controllers-on-arch/"
+         }, {
+            "date_added": "13362814941749368",
+            "date_last_used": "13362870534752167",
+            "guid": "dfc10863-eff6-4418-869b-a1618917def1",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Screen sharing on Hyprland (Arch Linux)",
+            "type": "url",
+            "url": "https://gist.github.com/brunoanc/2dea6ddf6974ba4e5d26c3139ffb7580"
+         }, {
+            "date_added": "13362680245740398",
+            "date_last_used": "0",
+            "guid": "9aaa102a-32c4-4708-9492-89798566d0b5",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Nas-tradamus - Synology NAS",
+            "type": "url",
+            "url": "http://192.168.1.101:5000/#/signin"
+         }, {
+            "date_added": "13362623459805685",
+            "date_last_used": "0",
+            "guid": "0a28b222-bf46-454d-b8e5-32a2a9a7cd30",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "wbthomason/packer.nvim: A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config",
+            "type": "url",
+            "url": "https://github.com/wbthomason/packer.nvim"
+         }, {
+            "date_added": "13362611619610457",
+            "date_last_used": "0",
+            "guid": "b5017db4-edce-4c03-a7da-2cc5825ff614",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Make Your Bash Termianl Strong and Sexy with .bashrc - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=tb8s8AJRZQw"
+         }, {
+            "date_added": "13362608022292438",
+            "date_last_used": "0",
+            "guid": "1fc2a7cb-b2b1-47b1-99d0-f90e72f7cfae",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Wootility Web",
+            "type": "url",
+            "url": "https://wootility.io/"
+         }, {
+            "date_added": "13362873827329307",
+            "date_last_used": "0",
+            "guid": "e284c0a7-f26b-481a-8ec0-e94a7885a9c9",
+            "id": "38",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AUR (en) - steam-rom-manager-bin",
+            "type": "url",
+            "url": "https://aur.archlinux.org/packages/steam-rom-manager-bin"
+         }, {
+            "date_added": "13362875589082291",
+            "date_last_used": "0",
+            "guid": "48ad57fb-0774-4b84-b01e-3c8a31ed6eed",
+            "id": "40",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Private Internet Access - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/title/Private_Internet_Access"
+         }, {
+            "date_added": "13363228623333136",
+            "date_last_used": "13364777232215315",
+            "guid": "7b075c24-bd72-4051-a0bc-7a2f40e632cd",
+            "id": "42",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Sonarr",
+            "type": "url",
+            "url": "http://192.168.1.101:8989/"
+         }, {
+            "date_added": "13363228634627854",
+            "date_last_used": "0",
+            "guid": "053e1710-265b-43fb-bff6-ba66b83b5ea9",
+            "id": "43",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Readarr",
+            "type": "url",
+            "url": "http://192.168.1.101:8888/"
+         }, {
+            "date_added": "13363228643501730",
+            "date_last_used": "0",
+            "guid": "785c294a-a778-493e-9bcc-3f8b9638bb97",
+            "id": "44",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Readarr",
+            "type": "url",
+            "url": "http://192.168.1.101:8787/"
+         }, {
+            "date_added": "13363229038959221",
+            "date_last_used": "13364783285583645",
+            "guid": "f711efcf-d50c-4927-9ec3-9cb2a493268e",
+            "id": "46",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "192.168.1.101:8686",
+            "type": "url",
+            "url": "http://192.168.1.101:8686/"
+         }, {
+            "date_added": "13363288776182805",
+            "date_last_used": "13365034682607539",
+            "guid": "bcf3bdc0-1ca1-4cd7-9aa9-b151aa5d8258",
+            "id": "48",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "prasanthrangan/hyprdots: // Aesthetic, dynamic and minimal dots for Arch hyprland",
+            "type": "url",
+            "url": "https://github.com/prasanthrangan/hyprdots"
+         }, {
+            "date_added": "13363297299413362",
+            "date_last_used": "0",
+            "guid": "760defb7-6d50-45f0-b557-a1a995904eea",
+            "id": "49",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Continuum | 4K VJ Loop, 3D Live Wallpaper and Animated Background",
+            "type": "url",
+            "url": "https://bigvisualchill.gumroad.com/l/continuum"
+         }, {
+            "date_added": "13363297338857729",
+            "date_last_used": "0",
+            "guid": "b07141b1-5d6f-4d5d-a288-29e4fcf99b9b",
+            "id": "50",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Torrent | Live Wallpaper, Screensaver & VJ Loop | H.264",
+            "type": "url",
+            "url": "https://bigvisualchill.com/Torrent-p535572244?utm_source=Reddit+-+wallpaper"
+         }, {
+            "date_added": "13363475565374254",
+            "date_last_used": "0",
+            "guid": "c9287651-1fa1-496d-b3aa-1ba2b8fcdbac",
+            "id": "52",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to change the Symlink permission? - Unix & Linux Stack Exchange",
+            "type": "url",
+            "url": "https://unix.stackexchange.com/questions/293763/how-to-change-the-symlink-permission"
+         }, {
+            "date_added": "13363498391470787",
+            "date_last_used": "13363503089675979",
+            "guid": "1b1309ca-0b63-498b-b2b8-f46e50d786c3",
+            "id": "54",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "atar-axis/xpadneo: Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S)",
+            "type": "url",
+            "url": "https://github.com/atar-axis/xpadneo"
+         }, {
+            "date_added": "13363504302194805",
+            "date_last_used": "0",
+            "guid": "d5865eb1-379d-414d-86f6-f52e42c5285f",
+            "id": "56",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Set up wallpapers on HYPRLAND. With swww and hyprpaper. Switch between both with ML4W Dotfiles 2.8.4 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=gjrVunNPj5c&t=2s"
+         }, {
+            "date_added": "13363508303423719",
+            "date_last_used": "0",
+            "guid": "ac2b0563-22c5-4e48-8cfe-59cacf3c29f2",
+            "id": "57",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "medusalix/xone: Linux kernel driver for Xbox One and Xbox Series X|S accessories",
+            "type": "url",
+            "url": "https://github.com/medusalix/xone"
+         }, {
+            "date_added": "13363554135320605",
+            "date_last_used": "0",
+            "guid": "82234f8a-ce96-437a-80ce-0e43a9d4add6",
+            "id": "59",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Run a script when specific window is opened : r/hyprland",
+            "type": "url",
+            "url": "https://www.reddit.com/r/hyprland/comments/116l5n2/run_a_script_when_specific_window_is_opened/"
+         }, {
+            "date_added": "13363742398967793",
+            "date_last_used": "0",
+            "guid": "aafc1597-6126-41e7-ab0d-6184cb442d5f",
+            "id": "61",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Vim Cheat Sheet",
+            "type": "url",
+            "url": "https://vim.rtorr.com/"
+         }, {
+            "date_added": "13363743301401407",
+            "date_last_used": "0",
+            "guid": "f50aaf94-9a8b-4dd6-b261-c160172f57d7",
+            "id": "63",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "New Tab",
+            "type": "url",
+            "url": "chrome://newtab/"
+         }, {
+            "date_added": "13363813266256228",
+            "date_last_used": "0",
+            "guid": "2a12644e-0443-44aa-bd71-c426db436c3e",
+            "id": "65",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Steam Support :: Setting Game Launch Options",
+            "type": "url",
+            "url": "https://help.steampowered.com/en/faqs/view/7D01-D2DD-D75E-2955"
+         }, {
+            "date_added": "13363833373791681",
+            "date_last_used": "13364426534704624",
+            "guid": "b0f6e72d-e401-4e0d-a4dc-bfdf08765cd5",
+            "id": "67",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "10101 W Parmer Ln Unit 1423.330120, Austin, TX 78717 - Room for Rent in Austin, TX | Apartments.com",
+            "type": "url",
+            "url": "https://www.apartments.com/10101-w-parmer-ln-austin-tx-unit-1423330120/mntck3k/"
+         }, {
+            "date_added": "13363834386060365",
+            "date_last_used": "13363994722487619",
+            "guid": "6fc3ebbc-89b5-4139-b7b9-3c85d8ee9c92",
+            "id": "70",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "system_map.pdf",
+            "type": "url",
+            "url": "https://www.capmetro.org/docs/default-source/plan-your-trip-docs/destination-schedule-book-docs/system_map.pdf?sfvrsn=eb974f8_39"
+         }, {
+            "date_added": "13364188502305176",
+            "date_last_used": "0",
+            "guid": "9fc26dca-c4c9-4e50-950f-4682ba22928d",
+            "id": "77",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Never struggle again with Nvidia drivers on Linux! NVIDIA ALL by TkG on Arch / Arch based distros - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=QW2XGMAu6VE"
+         }, {
+            "date_added": "13364188701035332",
+            "date_last_used": "0",
+            "guid": "bfbea37f-d318-4319-8aaf-fcbaad7f4e49",
+            "id": "78",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Frogging-Family/nvidia-all: Nvidia driver latest to 396 series AIO installer",
+            "type": "url",
+            "url": "https://github.com/Frogging-Family/nvidia-all"
+         }, {
+            "date_added": "13364203180110227",
+            "date_last_used": "0",
+            "guid": "7ca0c3a2-49d0-4b12-a532-cf8d7414a3fb",
+            "id": "80",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Steam Deck: GOG Galaxy (Part 2) - Create Individual Game Launchers in Steam - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=UACSTUGN95E"
+         }, {
+            "date_added": "13364341062349601",
+            "date_last_used": "0",
+            "guid": "e33bbf28-747f-4684-9b00-5d7248cd743c",
+            "id": "82",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Home Assistant PROXMOX Install and Setup (With NUC Alternative) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=PrKQkI53xys"
+         }, {
+            "date_added": "13364347614360583",
+            "date_last_used": "13364799695189081",
+            "guid": "e4261aeb-b8b0-410c-8da0-b06a593648a3",
+            "id": "84",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Radarr",
+            "type": "url",
+            "url": "http://192.168.1.101:7878/"
+         }, {
+            "date_added": "13364348590667029",
+            "date_last_used": "0",
+            "guid": "f0a8189b-b71d-4976-9cc4-d8aef5a00ed5",
+            "id": "85",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Synology - TRaSH Guides",
+            "type": "url",
+            "url": "https://trash-guides.info/Hardlinks/How-to-setup-for/Synology/"
+         }, {
+            "date_added": "13364422903716036",
+            "date_last_used": "13364957227460682",
+            "guid": "ebcc8e27-ad13-4d53-883f-03f353a10ba7",
+            "id": "88",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "8 Furnished Apartments in undefined, undefined",
+            "type": "url",
+            "url": "https://www.hellolanding.com/s/austin-tx/apartments/furnished?startDate=2024-07-15&endDate=2024-09-30"
+         }, {
+            "date_added": "13364456751756324",
+            "date_last_used": "13364600505048690",
+            "guid": "c05e7f74-7674-41b2-8f0c-b41d46f42ead",
+            "id": "89",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Kavita - Books",
+            "type": "url",
+            "url": "http://192.168.1.101:7000/library/2"
+         }, {
+            "date_added": "13364497255235333",
+            "date_last_used": "13364584288693497",
+            "guid": "d4094340-d594-47f2-b757-5f04661887fb",
+            "id": "91",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Sign In",
+            "type": "url",
+            "url": "https://login.neogov.com/"
+         }, {
+            "date_added": "13364504588746458",
+            "date_last_used": "0",
+            "guid": "857d6238-ce9a-44b1-933f-99730992727f",
+            "id": "92",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Personal Information Removal Service | Incogni",
+            "type": "url",
+            "url": "https://incogni.com/"
+         }, {
+            "date_added": "13364512652287670",
+            "date_last_used": "0",
+            "guid": "c950cdc1-eaf8-4159-807e-eeacec5d6edd",
+            "id": "93",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Colonialism and ethnic conflict in Burma - New Mandala",
+            "type": "url",
+            "url": "https://www.newmandala.org/colonialism-and-ethnic-conflict-in-burma/"
+         }, {
+            "date_added": "13364520885765498",
+            "date_last_used": "0",
+            "guid": "7c20cfea-f9bd-4f4a-b44b-2b8b0d093aff",
+            "id": "95",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "[hyprland] I Made this CLI TO-DO list program hope you find it use full : r/unixporn",
+            "type": "url",
+            "url": "https://www.reddit.com/r/unixporn/comments/1dserj1/hyprland_i_made_this_cli_todo_list_program_hope/"
+         }, {
+            "date_added": "13364623994553623",
+            "date_last_used": "0",
+            "guid": "aff8619e-2f79-4bc0-b9e4-aba6e28d4112",
+            "id": "97",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "peterbrittain/asciimatics: A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations",
+            "type": "url",
+            "url": "https://github.com/peterbrittain/asciimatics"
+         }, {
+            "date_added": "13364625115681937",
+            "date_last_used": "0",
+            "guid": "59513732-1ff9-4fc0-b385-65fef4a0ad63",
+            "id": "99",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "lxgr-linux/pokete: A terminal based Pokemon like game",
+            "type": "url",
+            "url": "https://github.com/lxgr-linux/pokete"
+         } ],
+         "date_added": "13362539390401233",
+         "date_last_used": "0",
+         "date_modified": "13364947753166553",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13362539390401235",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

@@ -1,0 +1,5 @@
+<svg width="24" height="24" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><style>.c1 { stroke: #9A9FA5; stroke-width: 1; }</style></defs>
+<line class="c1" x1="1" y1="1" x2="7" y2="7" />
+<line class="c1" x1="7" y1="1" x2="1" y2="7" />
+</svg>

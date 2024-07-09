@@ -1,0 +1,6 @@
+2024/07/09-15:03:38.474 11b8 Reusing MANIFEST /home/modus/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/07/09-15:03:38.478 11b8 Recovering log #151
+2024/07/09-15:03:38.478 11b8 Reusing old log /home/modus/.config/vesktop/sessionData/Local Storage/leveldb/000151.log 
+2024/07/09-15:08:38.026 11b9 Level-0 table #156: started
+2024/07/09-15:08:38.036 11b9 Level-0 table #156: 58768 bytes OK
+2024/07/09-15:08:38.039 11b9 Delete type=0 #151

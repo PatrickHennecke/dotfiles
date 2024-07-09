@@ -1,0 +1,4 @@
+{
+    "GitLive.Issue tracker integration": "Disabled",
+    "GitLive.Special branches": "main|master|trunk|dev|develop|qa|test|release[-/].*"
+}

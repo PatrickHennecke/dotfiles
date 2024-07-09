@@ -1,0 +1,25 @@
+2024/06/24-12:14:56.547 3fce Reusing MANIFEST /home/modus/.config/Plexamp/Local Storage/leveldb/MANIFEST-000001
+2024/06/24-12:14:56.549 3fce Recovering log #39
+2024/06/24-12:14:56.549 3fce Level-0 table #41: started
+2024/06/24-12:14:56.553 3fce Level-0 table #41: 23983 bytes OK
+2024/06/24-12:14:56.554 3fce Recovering log #40
+2024/06/24-12:14:56.554 3fce Reusing old log /home/modus/.config/Plexamp/Local Storage/leveldb/000040.log 
+2024/06/24-12:14:56.556 3fce Delete type=0 #39
+2024/06/24-12:14:56.556 3fcf Compacting 4@0 + 1@1 files
+2024/06/24-12:14:56.559 3fcf Generated table #42@0: 21 keys, 30534 bytes
+2024/06/24-12:14:56.559 3fcf Compacted 4@0 + 1@1 files => 30534 bytes
+2024/06/24-12:14:56.562 3fcf compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/24-12:14:56.562 3fcf Delete type=2 #32
+2024/06/24-12:14:56.562 3fcf Delete type=2 #34
+2024/06/24-12:14:56.562 3fcf Delete type=2 #36
+2024/06/24-12:14:56.562 3fcf Delete type=2 #38
+2024/06/24-12:14:56.562 3fcf Delete type=2 #41
+2024/06/24-12:15:57.763 3fcf Level-0 table #44: started
+2024/06/24-12:15:57.773 3fcf Level-0 table #44: 33539 bytes OK
+2024/06/24-12:15:57.775 3fcf Delete type=0 #40
+2024/06/24-12:17:57.766 3fcf Level-0 table #46: started
+2024/06/24-12:17:57.777 3fcf Level-0 table #46: 20048 bytes OK
+2024/06/24-12:17:57.780 3fcf Delete type=0 #43
+2024/06/24-12:20:57.763 3fcf Level-0 table #48: started
+2024/06/24-12:20:57.774 3fcf Level-0 table #48: 15477 bytes OK
+2024/06/24-12:20:57.778 3fcf Delete type=0 #45

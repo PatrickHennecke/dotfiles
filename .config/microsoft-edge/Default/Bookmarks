@@ -1,0 +1,53 @@
+{
+   "checksum": "1c11773fdd40a2534d68d6a206afdcd1",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13350460079758350",
+            "date_last_used": "0",
+            "guid": "0e501e45-12e3-4c55-bf32-1b0d48c853f7",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - maharmstone/btrfs: WinBtrfs - an open-source btrfs driver for Windows",
+            "show_icon": false,
+            "source": "sync",
+            "type": "url",
+            "url": "https://github.com/maharmstone/btrfs"
+         } ],
+         "date_added": "13362515361839557",
+         "date_last_used": "0",
+         "date_modified": "13350460079758350",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13362515361839559",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13362515361839560",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CjEKDgiIgQISCOX+RQOQAQAAEgAqGHd0cDk3eHlaTzFGeVJTTXdSMy9tM2c9PUgDoAYMEqcBCAcSogEKHFl6Q1BHRk44MHgwM3NHT3pFem05dzJWbjlLTT0SJDBlNTAxZTQ1LTEyZTMtNGM1NS1iZjMyLTFiMGQ0OGM4NTNmNxgAIAAoADCRuN+l0zE4/7jfpdMxQP+436XTMUocYzNEOXJsWVgyRmRiVDUzQ0pMUWdka3VRV0FVPVoeIhxUQlM5Uzh3alBkVml4Rm5EWm01eS9lakorb1k9ZcClKLoSiQEIARKEAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkMWI0MzRkNmMtOTZlYy01YjhhLTk1ZWMtY2JiMjk0MTBkYjc4GAAgACgAMP+d26u7LjjSy7SA8C9A0su0gPAvShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABKJAQgCEoQBChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ3NzhiMmM0OS02MzJhLTU2M2MtOTY5NS1kNTE4YjZkZTYxN2YYACAAKAAwgJ7bq7suOPHLtIDwL0Dxy7SA8C9KHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEokBCAMShAEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SJGE0YzhiY2JlLTNjZDUtNTk2NS1hMGU5LTNlMDlmYmVmZTljMBgAIAAoADCEnturuy44v8y0gPAvQL/MtIDwL0oceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAAwADgA",
+   "version": 1
+}

@@ -1,0 +1,6 @@
+2024/06/10-14:52:39.391 32c Creating DB /home/modus/.config/thorium/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb since it was missing.
+2024/06/10-14:52:39.396 32c Reusing MANIFEST /home/modus/.config/thorium/Default/IndexedDB/https_linuxize.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/10-14:53:11.424 32d Level-0 table #5: started
+2024/06/10-14:53:11.427 32d Level-0 table #5: 2517 bytes OK
+2024/06/10-14:53:11.430 32d Delete type=0 #3
+2024/06/10-14:53:11.430 32d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
